@@ -64,30 +64,4 @@ Set a significance level (alpha)
 Calculate test Statistics.
 Decision to accept or reject null hypothesis.
 Inference from the analysis
-
-Evaluation Criteria (50 Points):
-
-Define Problem Statement and perform Exploratory Data Analysis (10 points)
-Definition of problem (as per given problem statement with additional views)
-Observations on shape of data, data types of all the attributes, conversion of categorical attributes to 'category' (If required) , missing value detection, statistical summary.
-Univariate Analysis (distribution plots of all the continuous variable(s) barplots/countplots of all the categorical variables)
-Bivariate Analysis (Relationships between important variables such as workday and count, season and count, weather and count.
-Illustrate the insights based on EDA
-Comments on range of attributes, outliers of various attributes
-Comments on the distribution of the variables and relationship between them
-Comments for each univariate and bivariate plots
-Hypothesis Testing (30 Points):
-2- Sample T-Test to check if Working Day has an effect on the number of electric cycles rented (10 points)
-ANNOVA to check if No. of cycles rented is similar or different in different 1. weather 2. season (10 points)
-Chi-square test to check if Weather is dependent on the season (10 points)
-Notebook Quality (10 points):
-Structure & Flow
-Well commented code
-What good looks like (distribution of 10 points):
-
-Visual analysis (1)
-Hypothesis formulation (1)
-Select the appropriate test (1)
-Check test assumptions (2)
-Find the p-value(1)
-Conclusion based on the p-value (2)
+alue (2)
