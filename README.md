@@ -46,3 +46,4 @@ Bi-Variate Analysis
 2-sample t-test: testing for difference across populations
 ANNOVA
 Chi-square
+Time Series Analysis using SAMIRA 
